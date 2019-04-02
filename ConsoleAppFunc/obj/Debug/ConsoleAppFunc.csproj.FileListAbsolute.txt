@@ -1,0 +1,7 @@
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.exe.config
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.exe
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.pdb
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.csprojAssemblyReference.cache
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.csproj.CoreCompileInputs.cache
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.exe
+C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.pdb
