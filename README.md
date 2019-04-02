@@ -1,0 +1,2 @@
+# ConsoleFunc
+Delegate Func sonsole
