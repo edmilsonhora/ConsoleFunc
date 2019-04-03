@@ -5,3 +5,10 @@ C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\Con
 C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.csproj.CoreCompileInputs.cache
 C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.exe
 C:\Users\EDMILSON.SILVA\source\repos\ConsoleAppFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.pdb
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.exe.config
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.exe
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\bin\Debug\ConsoleAppFunc.pdb
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.csprojAssemblyReference.cache
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.csproj.CoreCompileInputs.cache
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.exe
+C:\Users\EDMILSON.SILVA\Documents\Nova pasta\ConsoleFunc\ConsoleFunc\ConsoleAppFunc\obj\Debug\ConsoleAppFunc.pdb
